@@ -42,7 +42,5 @@ http://localhost/CeylonThreads
 
 Authors
 
-* Kalindu Vidmal
-    Software Engineering Undergraduate | Aspiring QA Engineer
 * Yohan Stephen
     Software Engineering Undergraduate
