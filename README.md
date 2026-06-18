@@ -1,4 +1,4 @@
-#Ceylon Threads
+Ceylon Threads
 
 A PHP and MySQL-based e-commerce website developed for a Sri Lankan traditional products store specializing in batik and leather products. The system provides a seamless shopping experience for customers while allowing administrators to efficiently manage products and orders.
 
